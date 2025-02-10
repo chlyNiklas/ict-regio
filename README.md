@@ -1,24 +1,23 @@
 # ict-regio
 
-## Tasks:
 
-1. **Task Manager**: Track tasks with priorities and due dates.
-2. **Inventory Management System**: Manage stock items and generate reports.
-3. **Expense Tracker**: Log expenses by category and set budgets.
-4. **Book Library Organizer**: Organize books with details and search functionality.
-5. **Contact Management Application**: Simplified CRM for managing contacts.
-6. **Project Management Tool**: Track projects, tasks, deadlines, and progress.
-7. **Recipe Organizer**: Store recipes with ingredients and categories.
-8. **Fitness Tracker**: Log workouts and track progress.
-9. **Event Planning Tool**: Organize events with tasks, budgets, and guest lists.
-10. **Note Taking Application**: Create, edit, and search notes with tags.
-11. **Book Lending System**: Track lent books and due dates.
-12. **Vehicle Maintenance Log**: Record car maintenance details.
-13. **Hobby Project Manager**: Manage hobby projects with timelines and materials.
-14. **Grocery List Planner**: Plan weekly groceries with categories and expiration tracking.
-15. **Photo Organizer**: Organize photos by tags, albums, dates, and locations.
-16. **Time Tracking Application**: Track time spent on tasks for reporting.
-17. **Plant Care Assistant**: Schedule plant care routines.
-18. **Film Collection Manager**: Manage film collections with viewing history.
-19. **Pet Care Log**: Track pets' health and vet visits.
-20. **Study Planner**: Organize study sessions and track progress.
+## tasks
+- [ ] [book_lender](./tasks/book_lender.md)
+- [ ] [contact_manager](./tasks/contact_manager.md)
+- [ ] [event_planner](./tasks/event_planner.md)
+- [ ] [expenses](./tasks/expenses.md)
+- [ ] [film_colection](./tasks/film_colection.md)
+- [ ] [fitness_tracker](./tasks/fitness_tracker.md)
+- [ ] [generate](./tasks/generate.sh)
+- [ ] [grocery_list](./tasks/grocery_list.md)
+- [ ] [inventory](./tasks/inventory.md)
+- [ ] [maintenance_log](./tasks/maintenance_log.md)
+- [ ] [notes_app](./tasks/notes_app.md)
+- [ ] [photo_organizer](./tasks/photo_organizer.md)
+- [ ] [photo_orgnizer](./tasks/photo_orgnizer.md)
+- [ ] [plant_care](./tasks/plant_care.md)
+- [ ] [project_management](./tasks/project_management.md)
+- [ ] [recepe_organizer](./tasks/recepe_organizer.md)
+- [ ] [study_plan](./tasks/study_plan.md)
+- [ ] [task_manager](./tasks/task_manager.md)
+- [ ] [time_tracker](./tasks/time_tracker.md)
